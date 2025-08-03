@@ -26,6 +26,7 @@
 Crontab을 활용한 자동 실행 설정:
 
 ## 📁 프로젝트 구조
+```
 automation_proj/
 ├── main.py                  # 전체 자동화 주 로직
 ├── refresh_token.py         # Instagram Access Token 갱신
@@ -36,6 +37,7 @@ automation_proj/
 ├── rss_parser.py            # RSS 파싱 및 중복 검사
 ├── log/                     # 실행 로그 및 JSON 저장
 └── ...
+```
 
 ## 🛠 사용 기술
 - Python 3.10
