@@ -2,7 +2,6 @@
 
 **Techsnap**은 최신 IT 뉴스를 자동으로 요약하고, Instagram 비즈니스 계정에 정기적으로 업로드하는 Python 기반 자동화 프로젝트입니다.
 
----
 
 ## 📌 주요 기능
 
@@ -16,7 +15,7 @@
 
 ### ✅ 이미지 생성 및 업로드
 - 템플릿 이미지에 뉴스 요약을 삽입하여 카드뉴스 스타일 이미지 생성
-- 생성된 이미지를 [Cloudinary](https://cloudinary.com/)에 업로드하여 `image_url` 확보
+- 생성된 이미지를 Cloudinary에 업로드하여 `image_url` 확보
 
 ### ✅ Instagram 포스팅
 - Instagram Graph API를 이용해 `image_url` 기반 포스트 게시
