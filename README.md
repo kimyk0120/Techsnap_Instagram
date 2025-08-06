@@ -1,6 +1,6 @@
 # 📰 Techsnap - Instagram IT 뉴스 자동 요약 포스터
 
-**Techsnap**은 최신 IT 뉴스를 자동으로 요약하고, Instagram 비즈니스 계정에 정기적으로 업로드하는 Python 기반 자동화 프로젝트입니다.
+**Techsnap**은 최신 IT 뉴스를 자동으로 요약하고, Instagram 비즈니스 계정에 정기적으로 업로드하는 Python 기반 자동화 채널입니다.
 
 
 ## 📌 주요 기능
